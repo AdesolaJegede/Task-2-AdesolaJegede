@@ -114,7 +114,7 @@ volume more than they increase order value.
 
 ---
 
-### 7. Revenue Trend
+### 6. Revenue Trend
 | Year | Orders | Total Revenue |
 |---|---|---|
 | 2023 | 510 | $552,643.24 |
